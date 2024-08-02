@@ -1,0 +1,6 @@
+101,Rajesh,kumar,Hyderabad,50000
+102,Satish,prasad,Banglore,60000
+103,Rupesh,krishna,Pune,55000
+104,Aparna,Yadav,Hyderabad,65000
+105,Suguna,Tilak,Chennai,70000
+106,Bala,subramaniyam,Banglore,65000
